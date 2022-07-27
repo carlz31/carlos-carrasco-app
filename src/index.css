@@ -35,8 +35,12 @@ h2{
 }
 
 h3{
-  font-family: 'Courier New', Courier, monospace;
-  color: gold;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: black;
+}
+
+hr{
+  color: mediumblue;
 }
 
 ul li a:hover {

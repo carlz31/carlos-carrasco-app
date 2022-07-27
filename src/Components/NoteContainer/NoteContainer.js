@@ -21,7 +21,9 @@ function NoteContainer(props) {
     <div className="note-container">
       <h1>Evaluacion 4 front end </h1>
       <h2>Post It Simulator!</h2>
-      <h3> Agregar tareas</h3>
+      <h3>Que tan importante es tu dia?</h3>
+      <hr/>
+      <br/>
       <div className="note-container_notes custom-scroll">
         {notes?.length > 0 ? (
           notes.map((item) => (
