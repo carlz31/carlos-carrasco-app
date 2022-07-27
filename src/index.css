@@ -1,0 +1,45 @@
+:root {
+  --colorNormal: #ffffcc;
+  --colorImportante: #ec7063;
+  --colorBackGround: #666;
+  --colorGrisOscuro: #111;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: transparent;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #111;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: red;
+  background-color: #666;
+}
+h1{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: black;
+}
+
+h2{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: mediumblue;
+}
+
+h3{
+  font-family: 'Courier New', Courier, monospace;
+  color: mediumblue;
+}
+
+ul li a:hover {
+  color: #111;
+}
+
