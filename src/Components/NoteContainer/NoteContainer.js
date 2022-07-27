@@ -35,7 +35,7 @@ function NoteContainer(props) {
             />
           ))
         ) : (
-          <h3>No tienes tareas por  hacer</h3>
+          <h3>Nos vuelve pronto</h3>
         )}
       </div>
     </div>
