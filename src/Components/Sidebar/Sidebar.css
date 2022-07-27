@@ -26,5 +26,5 @@
   border-radius: 50%;
   height: 24px;
   width: 24px;
-  list-style: none;
+  list-style: initial;
 }
